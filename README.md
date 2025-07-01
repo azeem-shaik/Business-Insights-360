@@ -1,8 +1,8 @@
 # Business-Insights-360 
-This is my _[Business Insights 360](https://app.powerbi.com/view?r=eyJrIjoiNGMwOTQ1MmEtMzQwNi00OGNiLWEzMjItMzUwYWQyZTBlMTZjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=ReportSection0e765c0061580b067c73)_
+This is my _[Business Insights 360](https://app.powerbi.com/view?r=eyJrIjoiMDFlYTVhMTQtYjc4Mi00YThkLTgyYTYtNzBlNTNmNWNkMmVmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)_
  of project on atliQ Hardwares using POWER BI :heavy_check_mark: 
 
-# Project Live Dashboard  - _[click here](https://app.powerbi.com/view?r=eyJrIjoiNGMwOTQ1MmEtMzQwNi00OGNiLWEzMjItMzUwYWQyZTBlMTZjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=ReportSection0e765c0061580b067c73)_
+# Project Live Dashboard  - _[click here](https://app.powerbi.com/view?r=eyJrIjoiMDFlYTVhMTQtYjc4Mi00YThkLTgyYTYtNzBlNTNmNWNkMmVmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)_
 
 ## :coin: Finance Report :
 
